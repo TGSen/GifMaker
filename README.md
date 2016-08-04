@@ -2,8 +2,8 @@
 
 选择多张图片制作合成gif图。
 
-![](http://)
+![image1](https://github.com/LineChen/GifMaker/blob/master/screenshots/image1.png)
 
-![](http://)
+![image2](https://github.com/LineChen/GifMaker/blob/master/screenshots/image2.png)
 
-![](http://)
+![image3](https://github.com/LineChen/GifMaker/blob/master/screenshots/image3.png)
