@@ -111,7 +111,7 @@ public class GifMakeActivity extends AppCompatActivity implements IGifMakeView{
                 int size = presenter.getGifImages().size();
                 if(size > 1){
                     Toast.makeText(GifMakeActivity.this, "开始生成Gif图", Toast.LENGTH_SHORT).show();
-                    presenter.createGif(200, 500, 500);
+                    presenter.createGif(1000, 2048, 1300);
                     DialogUtil.showLoading(this);
                 } else {
                     Toast.makeText(GifMakeActivity.this, "请添加图片", Toast.LENGTH_SHORT).show();
